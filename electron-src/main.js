@@ -120,7 +120,7 @@ function createMenu() {
             label: 'Documentation',
             click: () => {
                 shell.openExternal(
-                    'https://github.com/vGerJ02/ruxailab-testing-app/wiki',
+                    'https://github.com/ruxailab/heatmap-app',
                 )
             },
         }),
@@ -130,7 +130,7 @@ function createMenu() {
             label: 'Check for Updates',
             click: () => {
                 shell.openExternal(
-                    'https://github.com/vGerJ02/ruxailab-testing-app/releases',
+                    'https://github.com/ruxailab/heatmap-app/releases',
                 )
             },
         }),
@@ -140,7 +140,7 @@ function createMenu() {
             label: 'Report an Issue',
             click: () => {
                 shell.openExternal(
-                    'https://github.com/vGerJ02/ruxailab-testing-app/issues',
+                    'https://github.com/vGerJ02/ruxailab-testing-app/issues',//currently the issue section is not opened
                 )
             },
         }),
